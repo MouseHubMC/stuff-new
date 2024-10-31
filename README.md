@@ -1,5 +1,7 @@
 
 # Stuff
+Lost access to my old account will now update on this account
+  I was too lazy to setup 2FA on my ols account, as i was already using my pn on this account
 
 A collection of  ~400 bookmarklets, for staying off task in school
 
